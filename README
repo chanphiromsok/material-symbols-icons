@@ -1,3 +1,2 @@
-```bash
+https://gist.github.com/chanphiromsok/293df6e861b546e90605483cfbb08d41
 npx svgtofont --sources ./node_modules/@material-design-icons/svg/round --output ./font --fontName material-symbols --normalize --centerHorizontally
-```
