@@ -1,0 +1,11 @@
+{
+  "name": "tovtam-icon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@material-design-icons/svg": "^0.14.14",
+    "svgo": "^3.3.2",
+    "svgtofont": "^6.2.0"
+  }
+}
